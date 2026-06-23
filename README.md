@@ -19,7 +19,7 @@
 - 🍏 **Mac mini (2024)**
   - Apple M4 Pro
   - 12-core CPU
-  - 18-core GPU
+  - 16-core GPU
   - 🧠 24 GB RAM
 
 ---
