@@ -65,3 +65,5 @@ And then immediately suffer the consequences 😄
 ---
 
 > “The closer you get to the metal, the more interesting everything becomes.”
+
+> "Let's go back to thinking Different!"
